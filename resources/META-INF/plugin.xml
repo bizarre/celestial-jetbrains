@@ -1,0 +1,31 @@
+<idea-plugin>
+    <id>re.bizar.celestial</id>
+    <name>Celestial</name>
+    <version>0.1.0</version>
+    <vendor email="alex@bizar.re" url="https://www.bizar.re">Alex Adewole</vendor>
+
+    <description>
+        <![CDATA[
+      Jetbrains IDE theme for all the people who love to code in deep dark spaces.
+    ]]>
+    </description>
+
+    <!-- See http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for details.-->
+    <idea-version since-build="191.0"/>
+
+    <!--
+    See http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html on how to target
+    different products
+    Using `com.intellij.modules.lang` enables support for all products.
+    -->
+    <depends>com.intellij.modules.lang</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="261e1179-5ebf-42e6-a475-71948ab68aa8" path="/celestial.theme.json"/>
+    </extensions>
+
+    <actions>
+
+    </actions>
+
+</idea-plugin>
