@@ -1,0 +1,12 @@
+{
+  "name": "celestial",
+  "dark": true,
+  "author": "Alex Adewole",
+  "editorScheme": "/celestial.xml",
+  "ui": {
+    "*": {
+      "background": "#0b0c0f",
+      "foreground": "#d5d8da"
+    }
+  }
+}
