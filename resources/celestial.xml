@@ -26,7 +26,6 @@
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="7a7c82" />
     <option name="MODIFIED_LINES_COLOR" value="d2d922" />
     <option name="QUESTION_HINT" value="6c6f93" />
-    <option name="SELECTION_BACKGROUND" value="14151b" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="1c1e26" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="232530" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="2e303e" />
@@ -34,6 +33,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_5" value="6c6f93" />
     <option name="WHITESPACES" value="ffb373" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="59e1e3" />
+    <option name="SELECTION_BACKGROUND" value="2c2d34" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">

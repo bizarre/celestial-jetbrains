@@ -6,7 +6,51 @@
   "ui": {
     "*": {
       "background": "#0b0c0f",
-      "foreground": "#d5d8da"
+      "foreground": "#9fa1a3",
+      "selectionBackground": "#1e1e2a",
+      "selectionInactiveBackground": "#1e1e2a",
+      "selectionForeground": "#d5d8da"
+    },
+    "EditorPane": {
+      "caretForeground": "#0b0c0f"
+    },
+    "EditorTabs": {
+      "borderColor": "#0b0c0f",
+      "hoverMaskColor": "#000000",
+      "underlineColor": "#e95678",
+      "underlinedTabBackground": "#0b0c0f"
+    },
+    "Borders": {
+      "ContrastBorderColor": "#0b0c0f"
+    },
+    "ActionButton": {
+      "hoverBackground": "#1e1e2a",
+      "hoverBorderColor": "#1e1e2a",
+      "pressedBackground": "#16161f",
+      "pressedBorderColor": "#16161f"
+    },
+    "Button": {
+      "endBackground": "#1e1e2a",
+      "endBorderColor": "#1e1e2a",
+      "focusedBorderColor": "#1e1e2a",
+      "shadowColor": "#2e3440",
+      "startBackground": "#1e1e2a",
+      "startBorderColor": "#1e1e2a",
+      "default": {
+        "endBackground": "#1e1e2a",
+        "endBorderColor": "#1e1e2a",
+        "focusColor": "#1e1e2a",
+        "focusedBorderColor": "#1e1e2a",
+        "foreground": "#1e1e2a",
+        "shadowColor": "#1e1e2a",
+        "startBackground": "#1e1e2a",
+        "startBorderColor": "#1e1e2a"
+      }
+    },
+    "ToolWindow": {
+      "Header": {
+        "inactiveBackground": "#0b0c0f"
+      }
     }
   }
 }
